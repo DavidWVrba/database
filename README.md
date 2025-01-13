@@ -13,7 +13,7 @@
 
 Designed and implemented a database to track air travel related information in PostgreSQL with SQL.
 
-[Code Repository](https://github.com/thedtripp/Database-Design-Term-Project)
+[Code Repository](https://github.com/DavidWVrba/database)
 
 ## **Relation Scheme**
 [Back to top](#database-design-term-project)
